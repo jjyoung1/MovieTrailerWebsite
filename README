@@ -1,0 +1,10 @@
+The main entry for this program is home.py.
+In order to run the following must be done:
+1. Copy all files into a directory
+2. Make sure Python is installed and executable from a command prompt
+3. Access to the internet is required
+
+In a command prompt, cd to the directory where the python files are located and invoke
+the program as follows:
+
+> python home.py
