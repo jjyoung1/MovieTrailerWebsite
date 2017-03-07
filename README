@@ -8,3 +8,8 @@ In a command prompt, cd to the directory where the python files are located and 
 the program as follows:
 
 > python home.py
+
+Code Reuse Attributes:
+fresh_tomatoes.py - provided by Udacity
+Images from wikimedia.org
+Trailers from youtube.com
