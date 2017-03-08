@@ -1,9 +1,6 @@
 import webbrowser
 
 # Project: Udacity:Programming Foundations with Python:MovieTrailer
-"""
-
-"""
 class Movie():
     """A model of a movie that meets the requirements of fresh_tomatoes.py"""
     def __init__(self, title, poster_image_url, trailer_url):
